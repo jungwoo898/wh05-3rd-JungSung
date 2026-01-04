@@ -12,7 +12,7 @@
 | [**오현서**](https://github.com/OhHyunSeo) | [**김기훈**](https://github.com/kimgihoon-99) | [**노준석**](https://github.com/RJ-Stony) | [**오정우**](https://github.com/jungwoo898) |
 |:--:|:--:|:--:|:--:|
 | [<img width="128" height="128" alt="오현서" src="https://github.com/user-attachments/assets/81ca3f11-b78f-4871-93d3-a6754b139bd6" />](https://github.com/OhHyunSeo) | [<img width="128" height="128" alt="김기훈" src="https://github.com/user-attachments/assets/fce55b66-abc1-4858-9f92-ac95b2fd28f8" />](https://github.com/kimgihoon-99) | [<img width="128" height="128" alt="노준석" src="https://github.com/user-attachments/assets/58095b6c-ec16-48de-b3c2-bdf808a6fa6f" />](https://github.com/RJ-Stony) | [<img width="128" height="128" alt="오정우" src="https://github.com/user-attachments/assets/640305e8-b8d6-479c-a8ff-cde0f01933a5" />](https://github.com/jungwoo898) |
-| 서버 환경 구축<br> 백엔드 API 연동<br> 웹 퍼블리싱 | 알고리즘 설계<br> 데이터 수집<br> 백엔드 API 연동 | 시스템 아키텍처 설계<br> 프론트엔드 총괄<br> Call 모델 개발 | 프로젝트 기획<br> 사용자 경험(UX) <br> 상담 후 처리 모델 개발<br> |
+| 서버 환경 구축<br> 백엔드 API 연동<br> 웹 퍼블리싱 | 알고리즘 설계<br> 데이터 수집<br> 백엔드 API 연동 | 시스템 아키텍처 설계<br> 프론트엔드 총괄<br> Call 모델 개발 | 프로젝트 기획<br> 사용자 경험(UX) <br> Call 모델 개발<br> |
 
 ---
 
